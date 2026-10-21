@@ -19,8 +19,6 @@ flowchart TD
     
     Q1 & Q2 & Q3 & Q4 & Q5 & Q6 & Q7 & Q8 --> AG["09. Agentic RAG & Frameworks<br/>(LangChain & LlamaIndex)"]
     
-    style N fill:#fee2e2,stroke:#ef4444,stroke-width:2px
-    style AG fill:#dcfce7,stroke:#22c55e,stroke-width:2px
 ```
 
 ### Table of Contents

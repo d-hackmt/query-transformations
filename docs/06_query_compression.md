@@ -36,9 +36,6 @@ flowchart LR
     Dense --> VDB[("Vector Database Search")]
     VDB --> Chunks["High-Precision Document Matches"]
     
-    style Verbose fill:#fee2e2,stroke:#ef4444,stroke-width:2px
-    style Compressor fill:#e0e7ff,stroke:#6366f1,stroke-width:2px
-    style Dense fill:#dcfce7,stroke:#22c55e,stroke-width:2px
 ```
 
 ---

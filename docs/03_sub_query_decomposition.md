@@ -51,9 +51,6 @@ flowchart TD
     Aggregator --> Synthesizer["LLM Response Synthesizer"]
     Synthesizer --> FinalAnswer["Exhaustive, Multi-Faceted Answer"]
     
-    style ComplexQ fill:#fee2e2,stroke:#ef4444,stroke-width:2px
-    style Decomposer fill:#e0e7ff,stroke:#6366f1,stroke-width:2px
-    style FinalAnswer fill:#dcfce7,stroke:#22c55e,stroke-width:2px
 ```
 
 ---

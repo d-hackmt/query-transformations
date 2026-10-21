@@ -41,10 +41,6 @@ flowchart TD
     RRF --> TopDocs["Top High-Confidence Documents"]
     TopDocs --> FinalLLM["Accurate, Comprehensive LLM Response"]
     
-    style UserQ fill:#fee2e2,stroke:#ef4444,stroke-width:2px
-    style LLM fill:#e0e7ff,stroke:#6366f1,stroke-width:2px
-    style RRF fill:#fef3c7,stroke:#f59e0b,stroke-width:2px
-    style FinalLLM fill:#dcfce7,stroke:#22c55e,stroke-width:2px
 ```
 
 ---

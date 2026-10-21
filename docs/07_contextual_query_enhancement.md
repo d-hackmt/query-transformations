@@ -44,10 +44,6 @@ flowchart TD
     EnhancedQ --> VDB[("Enterprise Vector Store")]
     VDB --> TargetedDocs["Exact-Match MLOps & Kubernetes Deployment Guides"]
     
-    style UserQ fill:#fee2e2,stroke:#ef4444,stroke-width:2px
-    style Profile fill:#fef3c7,stroke:#f59e0b,stroke-width:2px
-    style Enhancer fill:#e0e7ff,stroke:#6366f1,stroke-width:2px
-    style EnhancedQ fill:#dcfce7,stroke:#22c55e,stroke-width:2px
 ```
 
 ---

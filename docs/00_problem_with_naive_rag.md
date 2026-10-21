@@ -18,9 +18,6 @@ flowchart LR
     D --> E["LLM Generation"]
     E --> F["Hallucinated or Poor Answer"]
     
-    style A fill:#fee2e2,stroke:#ef4444,stroke-width:2px
-    style C fill:#fef3c7,stroke:#f59e0b,stroke-width:2px
-    style F fill:#fee2e2,stroke:#ef4444,stroke-width:2px
 ```
 
 ---
@@ -82,8 +79,6 @@ flowchart TD
     QR & SB & SQ & MQ & RT & QC & CE & TR --> Retrieval[("Optimized Retrieval Engines")]
     Retrieval --> FinalLLM["High-Quality LLM Synthesis"]
     
-    style QT fill:#e0e7ff,stroke:#6366f1,stroke-width:2px
-    style FinalLLM fill:#dcfce7,stroke:#22c55e,stroke-width:2px
 ```
 
 By transforming, enriching, decomposing, or translating the question first, we ensure the retriever receives queries tailored for high-precision vector and metadata matching.

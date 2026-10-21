@@ -33,9 +33,6 @@ flowchart TD
     Grader -->|"Relevant"| Generator["Final Answer Generation"]
     Grader -->|"Insufficient / Irrelevant"| Supervisor
     
-    style UserQ fill:#fee2e2,stroke:#ef4444,stroke-width:2px
-    style Supervisor fill:#e0e7ff,stroke:#6366f1,stroke-width:2px
-    style Generator fill:#dcfce7,stroke:#22c55e,stroke-width:2px
 ```
 
 ---

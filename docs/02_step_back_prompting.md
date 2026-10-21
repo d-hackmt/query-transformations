@@ -39,9 +39,6 @@ flowchart TD
     
     Merger --> FinalLLM["Synthesized Accurate Response<br/>(Backed by Fundamentals + Specifics)"]
     
-    style UserQuery fill:#fee2e2,stroke:#ef4444,stroke-width:2px
-    style StepBackQuery fill:#e0e7ff,stroke:#6366f1,stroke-width:2px
-    style FinalLLM fill:#dcfce7,stroke:#22c55e,stroke-width:2px
 ```
 
 ---

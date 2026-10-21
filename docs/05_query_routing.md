@@ -39,12 +39,6 @@ flowchart TD
     S1 & S2 --> Aggregator["Targeted Context Retrieval"]
     Aggregator --> LLM["Synthesized Answer"]
     
-    style UserQ fill:#fee2e2,stroke:#ef4444,stroke-width:2px
-    style Router fill:#e0e7ff,stroke:#6366f1,stroke-width:2px
-    style S1 fill:#dcfce7,stroke:#22c55e,stroke-width:2px
-    style S2 fill:#dcfce7,stroke:#22c55e,stroke-width:2px
-    style S3 fill:#f3f4f6,stroke:#9ca3af,stroke-dasharray: 5 5
-    style S4 fill:#f3f4f6,stroke:#9ca3af,stroke-dasharray: 5 5
 ```
 
 ---

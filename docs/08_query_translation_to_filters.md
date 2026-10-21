@@ -42,9 +42,6 @@ flowchart TD
     VectorSearch & MetadataFilter --> HybridRetrieval[("Vector Store / Hybrid Engine<br/>(e.g., Pinecone, Qdrant, Chroma)")]
     HybridRetrieval --> FilteredResults["100% Compliant, Highly Relevant Documents"]
     
-    style NaturalQ fill:#fee2e2,stroke:#ef4444,stroke-width:2px
-    style Parser fill:#e0e7ff,stroke:#6366f1,stroke-width:2px
-    style FilteredResults fill:#dcfce7,stroke:#22c55e,stroke-width:2px
 ```
 
 ---

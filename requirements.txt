@@ -1,0 +1,15 @@
+# Core LangChain and OpenAI Packages
+langchain>=0.3.0
+langchain-openai>=0.2.0
+langchain-core>=0.3.0
+openai>=1.0.0
+
+# Environment Variable Management
+python-dotenv>=1.0.0
+
+# Jupyter Notebook & Interactive Display
+ipykernel>=6.0.0
+ipython>=8.0.0
+
+# Optional: For LlamaIndex Query Transformation tasks (referenced in notebook Task section)
+# llama-index>=0.10.0
